@@ -5,7 +5,7 @@
 package test_git;
 
 /**
- *
+ * Esta es una clase para Vizualizar resultados
  * @author Usuario
  */
 public class Vizualizador {
