@@ -5,7 +5,7 @@
 package test_git;
 
 /**
- *
+ * Entidad curso
  * @author Usuario
  */
 public class Curso {
